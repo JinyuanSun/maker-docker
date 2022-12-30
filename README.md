@@ -1,5 +1,5 @@
 # maker-docker
-
+**Register for MAKER and RepBase!**
 Docker image ([chrishah/premaker-plus](https://hub.docker.com/r/chrishah/premaker-plus/)) as base for building full [MAKER](http://www.yandell-lab.org/software/maker.html) image, plus dependencies and third party software
 
 FYI, the image builds on a few intermediate images, in the following order:
